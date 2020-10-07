@@ -17,6 +17,8 @@ def assembled_aoh
     { name:  "Kate Gompert", occupation: "None" },
     { name:  "Bruce Green", occupation: "Fan of Mildred" }
     ]
+    
+    aoh
 end
 
 def literal_aoh
